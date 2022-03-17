@@ -1,0 +1,54 @@
+{
+    "tips" : "If you want to pick more than one type ',' then your next choice WITHOUT spaces, then press enter to proceed!",
+    "q1" : {
+        "key" : ["min_price", "max_price"],
+        "q" : "What's your budget range?",
+        "a" : ["Please enter minimum price or press 0 for min price! ", "Please enter maximum price or press 1 for max price! "]
+    },
+    "q2" : {
+        "key" : "body_type",
+        "q" : "Which car body type do you prefer?",
+        "a" : ["Any", "Hatchback", "SUV", "Convertible", "Convertible SUV", "Coupe", "Sedan", "Wagon"]
+    },
+    "q3" : {
+        "key" : "fuel_type",
+        "q" : "Which car fuel type do you prefer?",
+        "a" : ["Any", "Petrol", "Diesel", "Electric", "Hybrid"]
+    },
+    "q4" : {
+        "key" : "transmission_type",
+        "q" : "Which type of transmission do you prefer?",
+        "a" : ["Any", "Automatic", "Manual", "Automated manual"]
+    },
+    "q5" : {
+        "key" : "brand",
+        "q" : "Do you have any preference on specific car brands?",
+        "a" : ["Any", "Acura", "Aston Martin", "Audi", "Bentley", "BMW", 
+            "Cadillac", "Chevrolet", "Chrysler", "Dodge", "FIAT", 
+            "Ford", "Genesis", "GMC", "Honda", "Hyundai", "Infiniti", 
+            "Kia", "Land Rover", "Lexus", "Maserati", "Mazda", 
+            "Mercedes-Benz", "Mitsubishi", "Nissan", "Porsche", 
+            "Rolls-Royce", "Scion", "Subaru", "Tesla", "Toyota", 
+            "Volkswagen", "Volvo"]
+    },
+    "q6" : {
+        "key" : "color",
+        "q" : "Do you have any specific color you want for your car?",
+        "a" : ["Any", "Black", "White", "Silver", "Gray", "Red", "Blue"]
+    },
+    "q7" : {
+        "key" : "minimum_year",
+        "q" : "Minimum year produced?",
+        "a" : [2015, 2016, 2017]
+    },
+    "q8" : {
+        "key" : "vehicle_size",
+        "q" : "Which vehicle size are you looking for?",
+        "a" : ["Any", "Compact", "Midsize", "Large"]
+    },
+    "q9" : {
+        "key" : "profile",
+        "q" : "Which car profile are you looking for?",
+        "a" : ["Any", "Economic", "Family", "Sport", "Mini", "Spacious", "Status"]
+    }
+}

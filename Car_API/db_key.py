@@ -1,0 +1,1 @@
+API_KEY = "mongodb+srv://intellectualsystem932001:System12345@cluster0.muon8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"

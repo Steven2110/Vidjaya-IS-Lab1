@@ -1,0 +1,87 @@
+Best match
+Total 5 best match found!
+{
+    "Make": "Mercedes-Benz",
+    "Model": "CLA-Class",
+    "Year": 2016,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 208,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automated manual",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3205000
+}
+{
+    "Make": "Mercedes-Benz",
+    "Model": "CLA-Class",
+    "Year": 2017,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 208,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3240000
+}
+{
+    "Make": "Kia",
+    "Model": "Optima Hybrid",
+    "Year": 2015,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 199,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 14.88,
+    "Price": 3215000
+}
+{
+    "Make": "Honda",
+    "Model": "Accord Hybrid",
+    "Year": 2017,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 212,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 20.83,
+    "Price": 3595500
+}
+{
+    "Make": "Honda",
+    "Model": "Accord Hybrid",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 196,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 21.26,
+    "Price": 3505500
+}

@@ -13,10 +13,37 @@ Intelligent System laboratory work
 
 Цурова Тамара 932001
 
-### Link to site
+## Link to site
 https://steven2110.github.io/
 
-### Video of the program
-Version: https://github.com/Steven2110/Steven2110.github.io/blob/30b34fe55dd89596f86d3cb3c35ed08115538413/Car_API/package.json#L3
+## Video of the program
+Backend Version: **0.0.2**
 
-Video: https://disk.yandex.com/i/vL-jCBKlzows5Q
+Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
+
+Fronend Version: **0.0.1**
+
+Video: 
+
+## Test
+Пользователь хочет найти варианты автомобилей, с следующим характеристиками:
+
+1. **Цена**: От 3.000.000 До 5.000.000
+2. **Стиль**: SUV или Sedan
+3. **Тип топлива**: Бензин
+4. **Тип передачи**: Механическая или Автоматическая
+5. **Бренд**: Mazda или Mercedes-Benz или BMW или Honda или Kia
+6. **Цвет**: Чёрная, Красная
+7. **Год производства**: Не старше 2015
+8. **Размер**: Средняя
+9. **Категория**: Экономичная
+
+## Result
+Наша ЭС возвращает все самые подходящие варианты, также другие подходящие варианты соответственно Базы Знаний: 
+
+1. Тоже самая цена, стиль тип топлива, тип передачи, год производства, размер, и категория
+2. Несмотря на Бренды и Цветы
+
+Все результаты пока находятся внутри папки Car_API и папки Test_Result_File.
+Файл *test_best_match.txt* - это результаты всех подходящих вариантов машин
+Файл *test_close_match.txt* - это результаты всех других подходящих вариантов машин

@@ -1,0 +1,721 @@
+We found total of 40 close matching car for you!
+Match no. 1
+{
+    "Make": "Mazda",
+    "Model": "6",
+    "Year": 2016,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 184,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3019500
+}
+Match no. 2
+{
+    "Make": "Mazda",
+    "Model": "6",
+    "Year": 2017,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 184,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3069500
+}
+Match no. 3
+{
+    "Make": "Volvo",
+    "Model": "S80",
+    "Year": 2015,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 240,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 4170000
+}
+Match no. 4
+{
+    "Make": "Volvo",
+    "Model": "S80",
+    "Year": 2015,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 240,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 4050000
+}
+Match no. 5
+{
+    "Make": "Volvo",
+    "Model": "S60",
+    "Year": 2016,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 240,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3415000
+}
+Match no. 6
+{
+    "Make": "Volvo",
+    "Model": "S60",
+    "Year": 2016,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 240,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.05,
+    "Price": 3680000
+}
+Match no. 7
+{
+    "Make": "Honda",
+    "Model": "Accord",
+    "Year": 2015,
+    "Color": "Silver",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 185,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.48,
+    "Price": 3019500
+}
+Match no. 8
+{
+    "Make": "Toyota",
+    "Model": "Highlander Hybrid",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 280,
+    "Engine Cylinders": 6,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "all wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 11.48,
+    "Price": 4785000
+}
+Match no. 9
+{
+    "Make": "Infiniti",
+    "Model": "Q50",
+    "Year": 2015,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 360,
+    "Engine Cylinders": 6,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "all wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 11.9,
+    "Price": 4620000
+}
+Match no. 10
+{
+    "Make": "Lexus",
+    "Model": "RX 450h",
+    "Year": 2015,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 295,
+    "Engine Cylinders": 6,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "all wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 12.75,
+    "Price": 4902000
+}
+Match no. 11
+{
+    "Make": "Lexus",
+    "Model": "RX 450h",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 295,
+    "Engine Cylinders": 6,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 13.6,
+    "Price": 4762000
+}
+Match no. 12
+{
+    "Make": "Lexus",
+    "Model": "NX 300h",
+    "Year": 2015,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 194,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "all wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 14.03,
+    "Price": 4131000
+}
+Match no. 13
+{
+    "Make": "Kia",
+    "Model": "Optima Hybrid",
+    "Year": 2016,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 199,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 14.88,
+    "Price": 3219500
+}
+Match no. 14
+{
+    "Make": "Lexus",
+    "Model": "NX 300h",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 194,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 14.88,
+    "Price": 3972000
+}
+Match no. 15
+{
+    "Make": "Lexus",
+    "Model": "NX 300h",
+    "Year": 2016,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 194,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "J",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "SUV",
+    "City KPL": 14.88,
+    "Price": 3972000
+}
+Match no. 16
+{
+    "Make": "Hyundai",
+    "Model": "Sonata Hybrid",
+    "Year": 2017,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 193,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 16.16,
+    "Price": 3010000
+}
+Match no. 17
+{
+    "Make": "Hyundai",
+    "Model": "Sonata Hybrid",
+    "Year": 2017,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 193,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 16.16,
+    "Price": 3010000
+}
+Match no. 18
+{
+    "Make": "Hyundai",
+    "Model": "Sonata Hybrid",
+    "Year": 2016,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 193,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 16.58,
+    "Price": 3010000
+}
+Match no. 19
+{
+    "Make": "Hyundai",
+    "Model": "Sonata Hybrid",
+    "Year": 2016,
+    "Color": "Silver",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 193,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 16.58,
+    "Price": 3010000
+}
+Match no. 20
+{
+    "Make": "Kia",
+    "Model": "Optima Hybrid",
+    "Year": 2017,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 192,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 16.58,
+    "Price": 3099000
+}
+Match no. 21
+{
+    "Make": "Lexus",
+    "Model": "ES 300h",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4058000
+}
+Match no. 22
+{
+    "Make": "Lexus",
+    "Model": "ES 300h",
+    "Year": 2016,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4102000
+}
+Match no. 23
+{
+    "Make": "Lexus",
+    "Model": "ES 300h",
+    "Year": 2017,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4182000
+}
+Match no. 24
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2015,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3780000
+}
+Match no. 25
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2015,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4170000
+}
+Match no. 26
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2015,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3647000
+}
+Match no. 27
+{
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Year": 2016,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3014000
+}
+Match no. 28
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2016,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3665000
+}
+Match no. 29
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2016,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3810000
+}
+Match no. 30
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2016,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4195000
+}
+Match no. 31
+{
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Year": 2017,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3014000
+}
+Match no. 32
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2017,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3725000
+}
+Match no. 33
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2017,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 3870000
+}
+Match no. 34
+{
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid",
+    "Year": 2017,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 200,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 17.01,
+    "Price": 4255000
+}
+Match no. 35
+{
+    "Make": "Ford",
+    "Model": "Fusion Hybrid",
+    "Year": 2017,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 188,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 18.28,
+    "Price": 3101000
+}
+Match no. 36
+{
+    "Make": "Ford",
+    "Model": "Fusion Hybrid",
+    "Year": 2017,
+    "Color": "Black",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 188,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 18.28,
+    "Price": 3702000
+}
+Match no. 37
+{
+    "Make": "Ford",
+    "Model": "Fusion Hybrid",
+    "Year": 2015,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 188,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 18.71,
+    "Price": 3233000
+}
+Match no. 38
+{
+    "Make": "Ford",
+    "Model": "Fusion Hybrid",
+    "Year": 2016,
+    "Color": "Red",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 188,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 18.71,
+    "Price": 3143000
+}
+Match no. 39
+{
+    "Make": "Honda",
+    "Model": "Accord Hybrid",
+    "Year": 2017,
+    "Color": "Blue",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 212,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 20.83,
+    "Price": 3290500
+}
+Match no. 40
+{
+    "Make": "Honda",
+    "Model": "Accord Hybrid",
+    "Year": 2015,
+    "Color": "White",
+    "Engine Fuel Type": "Petrol",
+    "Engine HP": 196,
+    "Engine Cylinders": 4,
+    "Transmission Type": "Automatic",
+    "Driven Wheels": "front wheel drive",
+    "Number of Doors": 4,
+    "Market Category": "E",
+    "Vehicle Size": "Midsize",
+    "Vehicle Style": "Sedan",
+    "City KPL": 21.26,
+    "Price": 3205500
+}

@@ -17,6 +17,6 @@ Intelligent System laboratory work
 https://steven2110.github.io/
 
 ### Video of the program
-Version: https://github.com/Steven2110/VidjayaStiven-IS-Lab/blob/b7dceef1dce82a99b4c6db85f9349b2815649a9b/Car_API/package.json#L3
+Version: https://github.com/Steven2110/Steven2110.github.io/blob/30b34fe55dd89596f86d3cb3c35ed08115538413/Car_API/package.json#L3
 
 Video: https://disk.yandex.com/i/vL-jCBKlzows5Q

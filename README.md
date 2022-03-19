@@ -14,7 +14,14 @@ Intelligent System laboratory work
 Цурова Тамара 932001
 
 ## Link to site
-https://steven2110.github.io/
+
+## How to use:
+1. Clone Repository
+2. Open terminal
+3. pip install flask
+4. pip install pymongo 
+5. pip install virtualenv for windows (MAC = python3 -m virtualenv venv)
+6. Start debugging main.py file
 
 ## Video of the program
 Backend Version: **1.0.0**

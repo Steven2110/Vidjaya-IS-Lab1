@@ -21,7 +21,7 @@ Backend Version: **0.0.2**
 
 Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
 
-Frontend Version: **0.0.5**
+Frontend Version: **0.0.6**
 
 Video: 
 

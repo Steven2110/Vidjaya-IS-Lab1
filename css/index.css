@@ -59,9 +59,10 @@ p{
 }
 
 form{
-  
+    display: inline-block;
     text-align: justify;
-
+    
+    
 }
 
 label{

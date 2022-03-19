@@ -17,11 +17,11 @@ Intelligent System laboratory work
 https://steven2110.github.io/
 
 ## Video of the program
-Backend Version: **0.0.3**
+Backend Version: **0.0.4**
 
 Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
 
-Frontend Version: **0.0.10**
+Frontend Version: **0.0.11**
 
 Video: 
 

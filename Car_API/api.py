@@ -1,7 +1,7 @@
 from Car_API import db_call as db
 import json
 import os
-import cgi
+
 
 class IntelligenceSystemCar:
     def ask_question(self):

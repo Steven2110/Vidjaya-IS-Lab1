@@ -20,7 +20,7 @@ Intelligent System laboratory work
 2. Open terminal
 3. pip install flask
 4. pip install pymongo 
-5. pip install virtualenv for windows (MAC = python3 -m virtualenv venv)
+5. pip install virtualenv, then run python3 -m virtualenv venv on mac
 6. Start debugging main.py file
 
 ## Video of the program

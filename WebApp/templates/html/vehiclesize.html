@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+    <a href="/"><h1><div class="head1">
+        ~CARSELECTION~
+    </div></h1></a>
+        
+        <title>
+            CARSELECTION WEBSITE
+        </title>
+</head>
+<hr>
+<body>
+    <p style="font-size:120%">
+        Which vehicle size are you looking for?
+     </p>
+     <p>
+         <b>Choose your vehicle size</b>
+     </p>
+    
+     <form action="profile" method="post">
+         <input type="checkbox" name="input_size" value="Any">
+         <label>Any</label><br>
+         <input type="checkbox" name="input_size" value="Compact">
+         <label>Compact</label><br>
+         <input type="checkbox" name="input_size" value="Midsize">
+         <label>Midsize</label><br>
+         <input type="checkbox" name="input_size" value="Large">
+         <label>Large</label><br><br>
+         <input type="submit" value="Lets go to the next step">
+    </form>
+</body>
+
+<footer>
+    Author: Андрюшина Мария, Виджая Стивен, Танумихарджа Рафаэл Мэтью, Цурова Тамара
+    <br>
+    Tomsk 2022
+</footer>
+</html>

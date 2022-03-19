@@ -1,7 +1,7 @@
-from db_call import get_matching_car, get_close_car
+from Car_API import db_call as db
 import json
 import os
-
+import cgi
 
 class IntelligenceSystemCar:
     def ask_question(self):
@@ -68,27 +68,16 @@ class IntelligenceSystemCar:
             question_number += 1
 
     def get_best_match(self):
-        return get_matching_car(self.user_want)
+        return db.get_matching_car(self.user_want)
 
     def get_close_match(self, best_match):
-        return get_close_car(best_match, self.user_want)
+        return db.get_close_car(best_match, self.user_want)
 
-    def __init__(self) -> None:
-        self.user_want = {
-            "min_price": 0,
-            "max_price": 0,
-            "body_type": [],
-            "fuel_type": [],
-            "transmission_type": [],
-            "color": [],
-            "brand": [],
-            "minimum_year": 2015,
-            "vehicle_size": [],
-            "profile": []
-        }
+    def __init__(self, user_want) -> None:
+        self.user_want = user_want
         self.best_match = []
         self.close_match = []
-        self.ask_question()
+        # self.ask_question()
 
 # For testing
 
@@ -117,5 +106,4 @@ def test():
     file1.close()
     file2.close()
 
-
-test()
+# test()

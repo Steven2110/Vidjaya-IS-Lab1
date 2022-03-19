@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+    <a href="/"><h1><div class="head1">
+        ~CARSELECTION~
+    </div></h1></a>
+        
+        <title>
+            CARSELECTION WEBSITE
+        </title>
+</head>
+<hr>
+<body>
+    <p style="font-size:120%">
+        Which type of transmission do you prefer?
+     </p>
+     <p>
+         <b>Choose your car transmission type</b>
+     </p>
+    
+     <form action="brand" method="post">
+         <input type="checkbox" name="input_transmission" value="Any">
+         <label>Any</label><br>
+         <input type="checkbox" name="input_transmission" value="Automatic">
+         <label>Automatic</label><br>
+         <input type="checkbox" name="input_transmission" value="Manual">
+         <label>Manual</label><br>
+         <input type="checkbox" name="input_transmission" value="Automated manual">
+         <label>Automated manual</label><br><br>
+         <input type="submit" value="Lets go to the next step">
+       </form>
+</body>
+
+<footer>
+    Author: Андрюшина Мария, Виджая Стивен, Танумихарджа Рафаэл Мэтью, Цурова Тамара
+    <br>
+    Tomsk 2022
+</footer>
+</html>

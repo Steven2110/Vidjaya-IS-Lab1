@@ -1,0 +1,36 @@
+{
+    "min_price": 1000000,
+    "max_price": 6000000,
+    "body_type": [
+        "SUV",
+        "Coupe",
+        "Sedan"
+    ],
+    "fuel_type": [
+        "Any"
+    ],
+    "transmission_type": [
+        "Any"
+    ],
+    "color": [
+        "Black",
+        "White",
+        "Red",
+        "Blue"
+    ],
+    "brand": [
+        "BMW",
+        "Chevrolet",
+        "GMC",
+        "Honda",
+        "Hyundai"
+    ],
+    "minimum_year": 2016,
+    "vehicle_size": [
+        "Compact",
+        "Midsize"
+    ],
+    "profile": [
+        "Economic"
+    ]
+}

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="/css/index.css">
-    <a href="/index.html"><h1><div class="head1">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+    <a href="/"><h1><div class="head1">
         ~CARSELECTION~
     </div></h1></a>
         
@@ -11,10 +11,6 @@
         </title>
 </head>
 <hr>
-
-
-
-
 <body>
     <header>
         <p style="font-size:120%">
@@ -25,7 +21,7 @@
              </b> 
          </p>
 
-         <form action="/html/bodytype.html" >
+         <form action="type" method="post">
              <label for="minprice">Minimum Price: </label><br>
              <select name="minprice" id="minprice" style="width: 150px; height: 30px;font-size: 18px;">
                  <option value="0">0</option>

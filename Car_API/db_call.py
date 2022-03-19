@@ -1,14 +1,11 @@
 import json
 import os
-from textwrap import indent
-
-from numpy import true_divide
-from db_key import API_KEY
+from Car_API import db_key as key
 from pymongo import MongoClient
-from sort import mergeSort
+
 
 # Connect to MongoDB database
-cluster = MongoClient(API_KEY)
+cluster = MongoClient(key.API_KEY)
 
 # Select the database cluster
 db = cluster["IS"]
@@ -23,38 +20,38 @@ def get_queries_logic_match_car(user_want):
     logic = {}
 
     # Logic for car with min <= price <= max. min, max are from user input
-    logic["Price"] = {"$gte": user_want["min_price"],
+    logic["price"] = {"$gte": user_want["min_price"],
                       "$lte": user_want["max_price"]}
 
     # Logic for car with Vehicle Style equal to the Vehicle Style that the user want
     if user_want["body_type"][0] != "Any":
-        logic["Vehicle Style"] = {"$in": user_want["body_type"]}
+        logic["vehicle_style"] = {"$in": user_want["body_type"]}
 
     # Logic for car with Fuel type equal to the Fuel type that the user want
     if user_want["fuel_type"][0] != "Any":
-        logic["Engine Fuel Type"] = {"$in": user_want["fuel_type"]}
+        logic["engine_fuel_type"] = {"$in": user_want["fuel_type"]}
 
     # Logic for car with Transmission type equal to the Transmission type that the user want
     if user_want["transmission_type"][0] != "Any":
         if "Automatic" in user_want["transmission_type"]:
             user_want["transmission_type"].append("Automated manual")
-        logic["Transmission Type"] = {"$in": user_want["transmission_type"]}
+        logic["transmission_type"] = {"$in": user_want["transmission_type"]}
 
     # Logic for car with Color equal to the Color that the user want
     if user_want["color"][0] != "Any":
-        logic["Color"] = {"$in": user_want["color"]}
+        logic["color"] = {"$in": user_want["color"]}
 
     # Logic for car with Brand equal to the Brand that the user want
     if user_want["brand"][0] != "Any":
-        logic["Make"] = {"$in": user_want["brand"]}
+        logic["make"] = {"$in": user_want["brand"]}
 
     # Logic for car with Size equal to the Size that the user want
     if user_want["vehicle_size"][0] != "Any":
-        logic["Vehicle Size"] = {"$in": user_want["vehicle_size"]}
+        logic["vehicle_size"] = {"$in": user_want["vehicle_size"]}
 
     # Logic for car with Production year equal to the Production year that the user want
     if user_want["minimum_year"] != "Any":
-        logic["Year"] = {"$gte": user_want["minimum_year"]}
+        logic["year"] = {"$gte": user_want["minimum_year"]}
 
     # Logic for car with the market category/class are in the profile that the user want
     if user_want["profile"] != "Any":
@@ -98,18 +95,18 @@ def get_queries_logic_match_car(user_want):
                 if i not in categories:
                     categories.append(i)
         if categories:
-            logic["Market Category"] = {"$in": categories}
+            logic["market_category"] = {"$in": categories}
 
         if "Economic" in user_want["profile"]:
             logic["$expr"] = {
                 "$cond": {
-                    "if": {"$or": [{"Engine Fuel Type": "Petrol"}, {"Engine Fuel Type": "Diesel"}]},
-                    "then": {"$gte": ["$City KPL", 10.8]},
+                    "if": {"$or": [{"engine_fuel_type": "Petrol"}, {"engine_fuel_type": "Diesel"}]},
+                    "then": {"$gte": ["$city_kpl", 10.8]},
                     "else": {
                         "$cond": {
-                            "if": {"Engine Fuel Type": "Hybrid"},
-                            "then": {"$gte": ["$City KPL", 21.26]},
-                            "else": {"$gte": ["$City KPL", 42.51]}
+                            "if": {"engine_fuel_type": "Hybrid"},
+                            "then": {"$gte": ["$city_kpl", 21.26]},
+                            "else": {"$gte": ["$city_kpl", 42.51]}
                         }
                     }
                 }
@@ -119,6 +116,11 @@ def get_queries_logic_match_car(user_want):
 
 
 def get_matching_car(user_want):
+    # file1 = open("testest.txt", "w")
+    # all_data = collection.find({}, {"_id": 0})
+    # for i in all_data:
+    #     file1.write(str(json.dumps(i,indent=4)) + '\n')
+    # file1.close()
     best_match = []
 
     # Get the queries logic of every car that satisfy every characteristic that the user want
@@ -141,30 +143,30 @@ def get_queries_logic_close_car(user_want):
     logic = {}
 
     # Logic for car with min <= price <= max. min, max are from user input
-    logic["Price"] = {"$gte": user_want["min_price"],
+    logic["price"] = {"$gte": user_want["min_price"],
                       "$lte": user_want["max_price"]}
 
     # Logic for car with ehicle Style equal to the ehicle Style that the user want
     if user_want["body_type"][0] != "Any":
-        logic["Vehicle Style"] = {"$in": user_want["body_type"]}
+        logic["vehicle_style"] = {"$in": user_want["body_type"]}
 
     # Logic for car with Fuel Type equal to the Fuel Type that the user want
     if user_want["fuel_type"][0] != "Any":
-        logic["Engine Fuel Type"] = {"$in": user_want["fuel_type"]}
+        logic["engine_fuel_type"] = {"$in": user_want["fuel_type"]}
 
     # Logic for car with Transmission Type equal to the Transmission Type that the user want
     if user_want["transmission_type"][0] != "Any":
         if "Automatic" in user_want["transmission_type"]:
             user_want["transmission_type"].append("Automated manual")
-        logic["Transmission Type"] = {"$in": user_want["transmission_type"]}
+        logic["transmission_type"] = {"$in": user_want["transmission_type"]}
 
     # Logic for car with Size equal to the Size that the user want
     if user_want["vehicle_size"][0] != "Any":
-        logic["Vehicle Size"] = {"$in": user_want["vehicle_size"]}
+        logic["vehicle_size"] = {"$in": user_want["vehicle_size"]}
 
     # Logic for car with Production year equal to the Production year that the user want
     if user_want["minimum_year"] != "Any":
-        logic["Year"] = {"$gte": user_want["minimum_year"]}
+        logic["year"] = {"$gte": user_want["minimum_year"]}
 
     # Logic for car with the market category/class are in the profile that the user want
     if user_want["profile"] != "Any":
@@ -208,18 +210,18 @@ def get_queries_logic_close_car(user_want):
                 if i not in categories:
                     categories.append(i)
         if categories:
-            logic["Market Category"] = {"$in": categories}
+            logic["market_category"] = {"$in": categories}
 
         if "Economic" in user_want["profile"]:
             logic["$expr"] = {
                 "$cond": {
-                    "if": {"$or": [{"Engine Fuel Type": "Petrol"}, {"Engine Fuel Type": "Diesel"}]},
-                    "then": {"$gte": ["$City KPL", 10.8]},
+                    "if": {"$or": [{"engine_fuel_type": "Petrol"}, {"engine_fuel_type": "Diesel"}]},
+                    "then": {"$gte": ["$city_kpl", 10.8]},
                     "else": {
                         "$cond": {
-                            "if": {"Engine Fuel Type": "Hybrid"},
-                            "then": {"$gte": ["$City KPL", 21.26]},
-                            "else": {"$gte": ["$City KPL", 42.51]}
+                            "if": {"engine_fuel_type": "Hybrid"},
+                            "then": {"$gte": ["$city_kpl", 21.26]},
+                            "else": {"$gte": ["$city_kpl", 42.51]}
                         }
                     }
                 }

@@ -1,4 +1,4 @@
-Make,Model,Year,Color,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,City KPL,Price
+make,model,year,color,engine_fuel_type,engine_hp,engine_cylinders,transmission_type,driven_wheels,number_of_doors,market_category,vehicle_size,vehicle_style,city_kpl,price
 Acura,TLX,2015,Black,Petrol,290,6,Automatic,all wheel drive,4,E,Midsize,Sedan,8.93,4157500.00
 Acura,ILX,2015,Black,Petrol,150,4,Automatic,front wheel drive,4,C,Compact,Sedan,10.20,3175000.00
 Acura,ILX,2015,White,Petrol,150,4,Automatic,front wheel drive,4,C,Compact,Sedan,10.20,2935000.00
@@ -261,16 +261,16 @@ BMW,3 Series,2015,White,Petrol,335,6,Automatic,rear wheel drive,4,E,Midsize,Seda
 BMW,3 Series,2015,Gray,Petrol,240,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,9.78,3750000.00
 BMW,3 Series,2015,Silver,Petrol,300,6,Automatic,rear wheel drive,4,E,Midsize,Sedan,8.93,4375000.00
 Chevrolet,Cruze,2015,White,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2009500.00
-BMW,3 Series,2015,Red,Petrol,240,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.35,3950000.00
+Honda,Accord Hybrid,2015,Black,Petrol,196,4,Automatic,front wheel drive,4,E,Midsize,Sedan,21.26,3505500.00
 BMW,3 Series,2015,Blue,Petrol,240,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.35,3950000.00
 Chevrolet,Cruze,2015,Red,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2427000.00
 Chevrolet,Cruze,2015,Blue,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2137000.00
-BMW,4 Series Gran Coupe,2015,Black,Petrol,240,4,Automatic,all wheel drive,4,S,Midsize,Sedan,9.35,4230000.00
+Honda,Accord Hybrid,2017,Black,Petrol,212,4,Automatic,front wheel drive,4,E,Midsize,Sedan,20.83,3595500.00
 BMW,4 Series Gran Coupe,2015,White,Petrol,240,4,Automatic,rear wheel drive,4,S,Midsize,Sedan,9.78,4030000.00
 BMW,4 Series Gran Coupe,2015,Gray,Petrol,240,4,Automatic,rear wheel drive,4,S,Midsize,Sedan,9.78,4030000.00
 BMW,4 Series Gran Coupe,2015,Silver,Petrol,240,4,Automatic,all wheel drive,4,S,Midsize,Sedan,9.35,4230000.00
 BMW,4 Series Gran Coupe,2015,Blue,Petrol,300,6,Automatic,rear wheel drive,4,S,Midsize,Sedan,8.93,4580000.00
-BMW,4 Series Gran Coupe,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,S,Midsize,Sedan,8.50,4780000.00
+Honda,CR-V,2015,Black,Petrol,185,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,11.05,3289500.00
 BMW,4 Series,2015,Black,Petrol,300,6,Automatic,all wheel drive,2,S,Midsize,Convertible,8.50,5690000.00
 BMW,4 Series,2015,White,Petrol,300,6,Automatic,rear wheel drive,2,S,Midsize,Coupe,8.93,4625000.00
 BMW,4 Series,2015,Gray,Petrol,240,4,Automatic,all wheel drive,2,S,Midsize,Convertible,8.93,5075000.00
@@ -287,7 +287,7 @@ Chevrolet,Trax,2015,Black,Petrol,138,4,Automatic,front wheel drive,4,J,Compact,4
 BMW,5 Series,2015,Silver,Petrol,241,4,Automatic,all wheel drive,4,E,Large,Sedan,9.35,5225000.00
 Chevrolet,Trax,2015,Silver,Petrol,138,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,11.05,2012000.00
 BMW,5 Series,2015,Gray,Petrol,443,8,Automatic,rear wheel drive,4,E,Large,Sedan,7.23,6490000.00
-BMW,5 Series,2015,Red,Petrol,241,4,Automatic,rear wheel drive,4,E,Large,Sedan,9.78,4995000.00
+Kia,Optima Hybrid,2015,Red,Petrol,199,4,Automatic,front wheel drive,4,E,Midsize,Sedan,14.88,3215000.00
 BMW,5 Series,2015,Blue,Petrol,302,6,Automatic,rear wheel drive,4,E,Large,Sedan,8.50,5560000.00
 BMW,6 Series Gran Coupe,2015,Black,Petrol,445,8,Automatic,all wheel drive,4,F,Large,Sedan,6.80,9260000.00
 BMW,6 Series Gran Coupe,2015,Gray,Petrol,315,6,Automatic,all wheel drive,4,F,Large,Sedan,8.50,8130000.00
@@ -313,15 +313,15 @@ BMW,ALPINA B7,2015,Black,Petrol,540,8,Automatic,rear wheel drive,4,F,Large,Sedan
 BMW,ALPINA B7,2015,White,Petrol,540,8,Automatic,all wheel drive,4,F,Large,Sedan,6.80,13130000.00
 BMW,ALPINA B7,2015,Blue,Petrol,540,8,Automatic,all wheel drive,4,F,Large,Sedan,6.80,13520000.00
 BMW,ALPINA B7,2015,Red,Petrol,540,8,Automatic,rear wheel drive,4,F,Large,Sedan,6.80,12830000.00
-BMW,X1,2015,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.78,3120000.00
+BMW,5 Series,2015,Red,Petrol,241,4,Automatic,rear wheel drive,4,E,Large,Sedan,9.78,4995000.00
 BMW,X1,2015,White,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,9.35,3300000.00
-BMW,X1,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3910000.00
-BMW,X3,2015,Black,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4550000.00
+Mercedes-Benz,CLA-Class,2016,Black,Petrol,208,4,Automated manual,front wheel drive,4,E,Midsize,Sedan,11.05,3205000.00
+Mercedes-Benz,CLA-Class,2017,Black,Petrol,208,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,3240000.00
 BMW,X3,2015,White,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4050000.00
 Chevrolet,Trax,2015,Red,Petrol,138,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,11.05,2244500.00
-BMW,X3,2015,Red,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3850000.00
-BMW,X4,2015,Black,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.50,4470000.00
-BMW,X4,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4800000.00
+Mercedes-Benz,C-Class,2016,Black,Petrol,241,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,10.63,3895000.00
+Mercedes-Benz,C-Class,2016,Red,Petrol,241,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,10.63,3927500.00
+Mercedes-Benz,C-Class,2015,Black,Petrol,241,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.20,4040000.00
 BMW,X5 M,2015,Black,Petrol,567,8,Automatic,all wheel drive,4,J,Midsize,4dr SUV,5.95,9870000.00
 BMW,X5,2015,Black,Petrol,300,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.08,5390000.00
 BMW,X5,2015,Blue,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,5620000.00
@@ -358,13 +358,13 @@ BMW,6 Series,2016,Gray,Petrol,315,6,Automatic,rear wheel drive,2,S,Midsize,Conve
 BMW,6 Series,2016,Silver,Petrol,315,6,Automatic,all wheel drive,2,S,Midsize,Convertible,8.50,8780000.00
 BMW,6 Series,2016,Blue,Petrol,445,8,Automatic,rear wheel drive,2,S,Midsize,Coupe,7.23,8870000.00
 BMW,6 Series,2016,Red,Petrol,445,8,Automatic,all wheel drive,2,S,Midsize,Coupe,6.80,9170000.00
-BMW,3 Series,2016,Red,Petrol,240,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,9.35,3835000.00
+BMW,X1,2015,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.78,3120000.00
 Chevrolet,Cruze Limited,2016,Silver,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2147000.00
 BMW,3 Series,2016,Blue,Petrol,240,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.35,4035000.00
 Chevrolet,Cruze Limited,2016,Red,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2337000.00
 BMW,4 Series Gran Coupe,2016,Black,Petrol,240,4,Automatic,rear wheel drive,4,S,Midsize,Sedan,9.78,4165000.00
 BMW,4 Series Gran Coupe,2016,White,Petrol,240,4,Automatic,all wheel drive,4,S,Midsize,Sedan,9.35,4365000.00
-BMW,4 Series Gran Coupe,2016,Red,Petrol,300,6,Automatic,rear wheel drive,4,S,Midsize,Sedan,8.50,4795000.00
+BMW,3 Series,2017,Red,Petrol,248,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,9.78,3875000.00
 BMW,4 Series Gran Coupe,2016,Blue,Petrol,300,6,Automatic,all wheel drive,4,S,Midsize,Sedan,8.50,4995000.00
 BMW,5 Series,2016,Black,Petrol,240,4,Automatic,rear wheel drive,4,E,Large,Sedan,9.78,5020000.00
 BMW,5 Series,2016,White,Petrol,240,4,Automatic,all wheel drive,4,E,Large,Sedan,9.35,5250000.00
@@ -384,12 +384,12 @@ BMW,6 Series Gran Coupe,2016,Red,Petrol,445,8,Automatic,all wheel drive,4,F,Larg
 BMW,7 Series,2016,Red,Petrol,445,8,Automatic,all wheel drive,4,F,Large,Sedan,6.80,9740000.00
 BMW,ALPINA B6 Gran Coupe,2016,Black,Petrol,600,8,Automatic,all wheel drive,4,F,Large,Sedan,6.38,12220000.00
 BMW,X1,2016,Blue,Petrol,228,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,9.35,3480000.00
-BMW,X3,2016,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3895000.00
+BMW,4 Series Gran Coupe,2017,Black,Petrol,248,4,Automatic,rear wheel drive,4,S,Midsize,Sedan,9.78,4195000.00
 BMW,X3,2016,Silver,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4095000.00
 BMW,X3,2016,White,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4680000.00
 Chevrolet,Trax,2016,White,Petrol,138,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,11.05,2030000.00
 BMW,X4,2016,White,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.50,4525000.00
-BMW,X4,2016,Black,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4970000.00
+Mercedes-Benz,CLA-Class,2016,Red,Petrol,375,4,Automated manual,all wheel drive,4,E,Midsize,Sedan,9.78,4950000.00
 BMW,X4,2016,Red,Petrol,360,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,5780000.00
 BMW,X5,2016,Black,Petrol,300,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.65,5470000.00
 BMW,X5,2016,Silver,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,5700000.00
@@ -400,7 +400,7 @@ BMW,X6,2016,Black,Petrol,300,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.
 BMW,X6,2016,Red,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,6290000.00
 BMW,X6,2016,White,Petrol,445,8,Automatic,all wheel drive,4,J,Midsize,4dr SUV,6.38,7530000.00
 BMW,X6 M,2016,Black,Petrol,567,8,Automatic,all wheel drive,4,J,Midsize,4dr SUV,5.95,10220000.00
-BMW,3 Series,2016,Black,Petrol,240,4,Manual,rear wheel drive,4,E,Midsize,Sedan,9.35,3835000.00
+Mercedes-Benz,CLA-Class,2017,Red,Petrol,208,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.78,3440000.00
 BMW,M3,2016,Red,Petrol,425,6,Manual,rear wheel drive,4,E,Midsize,Sedan,7.23,6350000.00
 BMW,M5,2016,Black,Petrol,560,8,Automated manual,rear wheel drive,4,F,Large,Sedan,5.95,9410000.00
 BMW,M6 Gran Coupe,2016,Black,Petrol,552,8,Automated manual,rear wheel drive,4,F,Large,Sedan,5.95,11720000.00
@@ -429,15 +429,15 @@ BMW,6 Series,2017,Blue,Petrol,445,8,Automatic,rear wheel drive,2,S,Midsize,Conve
 BMW,6 Series,2017,Red,Petrol,445,8,Automatic,all wheel drive,2,S,Midsize,Convertible,6.38,9950000.00
 BMW,3 Series,2017,Black,Petrol,248,4,Automatic,all wheel drive,4,D,Midsize,Wagon,9.78,4295000.00
 Chevrolet,Trax,2016,Blue,Petrol,138,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,11.05,2264500.00
-BMW,3 Series,2017,Red,Petrol,248,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,9.78,3875000.00
+BMW,3 Series,2015,Red,Petrol,240,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.35,3950000.00
 Chevrolet,Sonic,2016,Blue,Petrol,138,4,Manual,front wheel drive,4,C,Compact,Sedan,11.05,1434500.00
 BMW,3 Series,2017,Blue,Petrol,248,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.78,4075000.00
 Chevrolet,Sonic,2016,Red,Petrol,138,4,Manual,front wheel drive,4,C,Compact,Sedan,11.05,1615500.00
 BMW,3 Series,2017,White,Petrol,320,6,Automatic,rear wheel drive,4,E,Midsize,Sedan,8.93,4790000.00
-BMW,4 Series Gran Coupe,2017,Black,Petrol,248,4,Automatic,rear wheel drive,4,S,Midsize,Sedan,9.78,4195000.00
+BMW,4 Series Gran Coupe,2015,Black,Petrol,240,4,Automatic,all wheel drive,4,S,Midsize,Sedan,9.35,4230000.00
 BMW,4 Series Gran Coupe,2017,White,Petrol,248,4,Automatic,all wheel drive,4,S,Midsize,Sedan,9.78,4395000.00
 BMW,3 Series,2017,Gray,Petrol,320,6,Automatic,all wheel drive,4,E,Midsize,Sedan,8.93,4990000.00
-BMW,4 Series Gran Coupe,2017,Red,Petrol,320,6,Automatic,rear wheel drive,4,S,Midsize,Sedan,8.93,4830000.00
+BMW,3 Series,2016,Red,Petrol,240,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,9.35,3835000.00
 BMW,4 Series Gran Coupe,2017,Blue,Petrol,320,6,Automatic,all wheel drive,4,S,Midsize,Sedan,8.93,5030000.00
 BMW,6 Series Gran Coupe,2017,White,Petrol,315,6,Automatic,rear wheel drive,4,F,Large,Sedan,8.50,7980000.00
 BMW,6 Series Gran Coupe,2017,Black,Petrol,315,6,Automatic,all wheel drive,4,F,Large,Sedan,8.08,8280000.00
@@ -451,11 +451,11 @@ BMW,ALPINA B6 Gran Coupe,2017,Red,Petrol,600,8,Automatic,all wheel drive,4,F,Lar
 BMW,ALPINA B7,2017,Black,Petrol,600,8,Automatic,all wheel drive,4,F,Large,Sedan,6.80,13700000.00
 BMW,X1,2017,Black,Petrol,228,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,9.78,3310000.00
 BMW,X1,2017,Red,Petrol,228,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,9.35,3510000.00
-BMW,X3,2017,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3925000.00
+BMW,3 Series,2016,Black,Petrol,240,4,Manual,rear wheel drive,4,E,Midsize,Sedan,9.35,3835000.00
 Chevrolet,Cruze Limited,2016,White,Petrol,138,4,Manual,front wheel drive,4,E,Midsize,Sedan,11.05,1916500.00
-BMW,X3,2017,Red,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4125000.00
+Mercedes-Benz,GLC-Class,2016,Black,Petrol,241,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.35,3895000.00
 BMW,X3,2017,White,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4795000.00
-BMW,X4,2017,Black,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.50,4555000.00
+Mercedes-Benz,GLC-Class,2017,Black,Petrol,241,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.35,3915000.00
 BMW,X4,2017,White,Petrol,355,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,5810000.00
 BMW,X5,2017,Red,Petrol,300,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.65,5550000.00
 BMW,X5,2017,Black,Diesel,255,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,9.78,5930000.00
@@ -616,7 +616,7 @@ Ford,Focus,2016,White,Petrol,160,4,Manual,front wheel drive,4,C,Compact,Sedan,11
 Ford,Focus,2017,Red,Petrol,160,4,Manual,front wheel drive,4,C,Compact,Sedan,11.05,1677500.00
 Chevrolet,Cruze,2015,Silver,Petrol,138,4,Automatic,front wheel drive,4,E,Midsize,Sedan,9.35,1887000.00
 Honda,Accord,2015,Blue,Petrol,189,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2466500.00
-Honda,CR-V,2015,Black,Petrol,185,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,11.05,3289500.00
+BMW,X3,2015,Red,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3850000.00
 Chevrolet,Equinox,2015,Black,Petrol,182,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,8.50,2627000.00
 Chevrolet,Equinox,2015,White,Petrol,182,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,9.35,2617000.00
 Chevrolet,Equinox,2015,Silver,Petrol,182,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,8.50,2792000.00
@@ -749,8 +749,8 @@ Chevrolet,Sonic,2017,Black,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,
 Chevrolet,Sonic,2017,Red,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,Sedan,10.20,1817000.00
 Mazda,6,2017,Red,Petrol,184,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,2524500.00
 Mazda,6,2017,Blue,Petrol,184,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,3069500.00
-Mercedes-Benz,CLA-Class,2016,Black,Petrol,208,4,Automated manual,front wheel drive,4,E,Midsize,Sedan,11.05,3205000.00
-Mercedes-Benz,CLA-Class,2017,Black,Petrol,208,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.05,3240000.00
+Honda,Accord,2015,Black,Petrol,278,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.93,3227000.00
+BMW,X3,2016,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3895000.00
 Mitsubishi,Lancer,2015,White,Petrol,148,4,Automatic,front wheel drive,4,C,Compact,Sedan,11.05,1829500.00
 Nissan,Juke,2015,Gray,Petrol,188,4,Automatic,all wheel drive,4,B,Compact,4dr Hatchback,11.05,2694000.00
 Chevrolet,Camaro,2017,Red,Petrol,275,4,Automatic,rear wheel drive,2,S,Midsize,Coupe,9.35,2660000.00
@@ -1145,7 +1145,7 @@ GMC,Yukon XL,2017,Red,Petrol,420,8,Automatic,four wheel drive,4,J,Large,4dr SUV,
 Chevrolet,Cruze,2015,Gray,Diesel,148,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.48,2566000.00
 Chevrolet,Sonic,2016,Silver,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,Sedan,11.48,1978000.00
 Chevrolet,Malibu,2016,Red,Petrol,160,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.48,2162500.00
-Honda,Accord,2015,Black,Petrol,278,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.93,3227000.00
+BMW,4 Series Gran Coupe,2017,Red,Petrol,320,6,Automatic,rear wheel drive,4,S,Midsize,Sedan,8.93,4830000.00
 Honda,Accord,2015,White,Petrol,278,6,Automatic,front wheel drive,2,S,Midsize,Coupe,8.93,3255000.00
 Chevrolet,Malibu,2016,Blue,Petrol,160,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.48,2312000.00
 Chevrolet,Malibu,2016,Gray,Petrol,160,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.48,2312000.00
@@ -1174,12 +1174,12 @@ Ford,Focus,2016,Silver,Petrol,160,4,Automated manual,front wheel drive,4,C,Compa
 Ford,Fiesta,2017,Red,Petrol,120,4,Manual,front wheel drive,4,C,Compact,Sedan,11.48,1413000.00
 Ford,Fiesta,2017,Silver,Petrol,120,4,Manual,front wheel drive,4,C,Compact,Sedan,11.48,1536000.00
 Ford,Fiesta,2017,Blue,Petrol,120,4,Automated manual,front wheel drive,4,C,Compact,Sedan,11.48,1912000.00
-Honda,Pilot,2015,Black,Petrol,250,6,Automatic,four wheel drive,4,J,Midsize,4dr SUV,7.23,3372000.00
+BMW,X3,2017,Black,Petrol,240,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.93,3925000.00
 Honda,Pilot,2015,White,Petrol,250,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,4002000.00
 Honda,Pilot,2015,Gray,Petrol,250,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3697000.00
 Honda,Pilot,2015,Silver,Petrol,250,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3312000.00
 Honda,Pilot,2015,Blue,Petrol,250,6,Automatic,four wheel drive,4,J,Midsize,4dr SUV,7.23,4162000.00
-Honda,Pilot,2015,Red,Petrol,250,6,Automatic,four wheel drive,4,J,Midsize,4dr SUV,7.23,3897000.00
+BMW,X3,2017,Red,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4125000.00
 Ford,Focus,2017,Black,Petrol,160,4,Automated manual,front wheel drive,4,C,Compact,Sedan,11.48,2117500.00
 Ford,Focus,2017,White,Petrol,160,4,Automated manual,front wheel drive,4,C,Compact,Sedan,11.48,2357500.00
 Honda,Accord,2015,Silver,Petrol,185,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.48,3019500.00
@@ -1205,12 +1205,12 @@ Kia,Rio,2015,Black,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,Sedan,11
 Kia,Rio,2015,White,Petrol,138,4,Automatic,front wheel drive,4,B,Compact,4dr Hatchback,11.48,1829000.00
 Kia,Rio,2015,Gray,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,Sedan,11.48,1809000.00
 Kia,Rio,2015,Silver,Petrol,138,4,Automatic,front wheel drive,4,B,Compact,4dr Hatchback,11.48,1719000.00
-Honda,Pilot,2016,Black,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3014500.00
+Mercedes-Benz,GLC-Class,2016,Red,Petrol,241,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4095000.00
 Honda,Pilot,2016,White,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3258000.00
 Honda,Pilot,2016,Gray,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3358000.00
 Honda,Pilot,2016,Silver,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3605500.00
 Honda,Pilot,2016,Blue,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3705500.00
-Honda,Pilot,2016,Red,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3705500.00
+BMW,4 Series Gran Coupe,2016,Red,Petrol,300,6,Automatic,rear wheel drive,4,S,Midsize,Sedan,8.50,4795000.00
 Kia,Rio,2015,Blue,Petrol,138,4,Automatic,front wheel drive,4,C,Compact,Sedan,11.48,1699000.00
 Honda,Accord,2016,Black,Petrol,185,4,Manual,front wheel drive,4,E,Midsize,Sedan,9.78,2220500.00
 Honda,Accord,2016,Red,Petrol,189,4,Manual,front wheel drive,4,E,Midsize,Sedan,9.78,2426500.00
@@ -1237,12 +1237,12 @@ Mazda,3,2016,Blue,Petrol,184,4,Automatic,front wheel drive,4,C,Compact,4dr Hatch
 Mazda,3,2016,White,Petrol,184,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,11.48,2649500.00
 Mazda,CX-3,2016,White,Petrol,146,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,11.48,2121000.00
 Mazda,CX-3,2016,Silver,Petrol,146,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,11.48,2321000.00
-Honda,Pilot,2017,Black,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3303000.00
+BMW,X4,2017,Black,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.50,4555000.00
 Honda,Pilot,2017,White,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3403000.00
 Honda,Pilot,2017,Gray,Petrol,280,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3483000.00
 Honda,Pilot,2017,Silver,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3645500.00
 Honda,Pilot,2017,Blue,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3745500.00
-Honda,Pilot,2017,Red,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3805500.00
+BMW,4 Series Gran Coupe,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,S,Midsize,Sedan,8.50,4780000.00
 Mazda,CX-3,2016,Red,Petrol,146,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,11.48,2624000.00
 Mazda,MX-5 Miata,2016,Black,Petrol,155,4,Automatic,rear wheel drive,2,S,Compact,Convertible,11.48,2639500.00
 Mazda,MX-5 Miata,2016,Red,Petrol,155,4,Automatic,rear wheel drive,2,S,Compact,Convertible,11.48,2933000.00
@@ -1439,8 +1439,8 @@ Infiniti,QX60,2017,Gray,Petrol,295,6,Automatic,front wheel drive,4,J,Large,4dr S
 Infiniti,QX60,2017,Black,Petrol,295,6,Automatic,all wheel drive,4,J,Large,4dr SUV,8.08,4490000.00
 Infiniti,QX70,2017,Red,Petrol,325,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.23,4585000.00
 Infiniti,QX70,2017,Black,Petrol,325,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,6.80,4765000.00
-Kia,Cadenza,2015,Black,Petrol,293,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.08,3490000.00
-Kia,Cadenza,2015,Red,Petrol,293,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.08,4380000.00
+BMW,X4,2015,Black,Petrol,240,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.50,4470000.00
+Kia,Cadenza,2017,Black,Petrol,290,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.50,3199000.00
 Kia,Forte,2015,Black,Petrol,173,4,Automatic,front wheel drive,2,S,Compact,Coupe,10.63,1959000.00
 Kia,Forte,2015,White,Petrol,173,4,Automatic,front wheel drive,4,C,Compact,Sedan,10.63,1939000.00
 Kia,Forte,2015,Gray,Petrol,201,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,8.93,2189000.00
@@ -1462,12 +1462,12 @@ Chevrolet,Sonic,2017,Black,Petrol,138,4,Manual,front wheel drive,4,C,Compact,Sed
 Chevrolet,Cruze,2017,Black,Petrol,153,4,Manual,front wheel drive,4,E,Midsize,Sedan,11.90,1852500.00
 Chevrolet,Sonic,2017,Red,Petrol,138,4,Manual,front wheel drive,4,C,Compact,Sedan,11.90,1972000.00
 Chevrolet,Cruze,2017,Red,Petrol,153,4,Manual,front wheel drive,4,E,Midsize,Sedan,11.90,2015000.00
-Kia,Sorento,2015,Black,Petrol,290,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3850000.00
+Kia,Cadenza,2017,Red,Petrol,290,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.50,4439000.00
 Kia,Sorento,2015,White,Petrol,191,4,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.50,2430000.00
 Kia,Sorento,2015,Gray,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,2670000.00
 Kia,Sorento,2015,Silver,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3670000.00
 Kia,Sorento,2015,Blue,Petrol,290,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,4170000.00
-Kia,Sorento,2015,Red,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3170000.00
+Kia,Sorento,2017,Red,Petrol,240,4,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.50,3150000.00
 Kia,Soul,2015,Black,Petrol,130,4,Automatic,front wheel drive,4,C,Compact,Wagon,10.20,1719000.00
 Kia,Soul,2015,Red,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,Wagon,9.78,2079000.00
 Kia,Soul,2015,White,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,Wagon,9.78,1869000.00
@@ -1506,7 +1506,7 @@ Kia,Sorento,2016,White,Petrol,185,4,Automatic,front wheel drive,4,J,Midsize,4dr 
 Kia,Sorento,2016,Gray,Petrol,185,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,2820000.00
 Kia,Sorento,2016,Silver,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,2870000.00
 Kia,Sorento,2016,Blue,Petrol,240,4,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.50,3110000.00
-Kia,Sorento,2016,Red,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3210000.00
+BMW,X4,2016,Black,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4970000.00
 Kia,Soul,2016,Black,Petrol,130,4,Automatic,front wheel drive,4,C,Compact,Wagon,10.20,1740000.00
 Kia,Soul,2016,Blue,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,Wagon,10.20,1940000.00
 Kia,Soul,2016,Silver,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,Wagon,10.20,2130000.00
@@ -1525,11 +1525,11 @@ Mazda,3,2015,Black,Petrol,184,4,Automatic,front wheel drive,4,C,Compact,Sedan,11
 Kia,Forte,2017,Blue,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,Sedan,10.63,2120000.00
 Mazda,3,2015,Silver,Petrol,184,4,Automatic,front wheel drive,4,C,Compact,Sedan,11.90,2489500.00
 Mazda,6,2015,White,Petrol,184,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.90,2989500.00
-Kia,Cadenza,2017,Black,Petrol,290,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.50,3199000.00
+BMW,X3,2015,Black,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4550000.00
 Kia,Forte,2017,Gray,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,10.63,1809000.00
 Kia,Forte,2017,White,Petrol,164,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,10.63,2199000.00
 Kia,Cadenza,2017,Blue,Petrol,290,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.50,3899000.00
-Kia,Cadenza,2017,Red,Petrol,290,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.50,4439000.00
+BMW,X4,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.08,4800000.00
 Mazda,3,2017,Black,Petrol,155,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,11.90,2014500.00
 Mazda,3,2017,Blue,Petrol,155,4,Automatic,front wheel drive,4,C,Compact,4dr Hatchback,11.90,2224500.00
 Mazda,3,2017,White,Petrol,155,4,Automatic,front wheel drive,4,E,Midsize,Sedan,11.90,1889500.00
@@ -1538,7 +1538,7 @@ Kia,Sorento,2017,White,Petrol,185,4,Automatic,front wheel drive,4,J,Midsize,4dr 
 Kia,Sorento,2017,Gray,Petrol,185,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,2850000.00
 Kia,Sorento,2017,Silver,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,2899000.00
 Kia,Sorento,2017,Blue,Petrol,290,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3079000.00
-Kia,Sorento,2017,Red,Petrol,240,4,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.50,3150000.00
+Honda,Pilot,2016,Black,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3014500.00
 Kia,Sportage,2017,Black,Petrol,181,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,9.35,2299000.00
 Kia,Sportage,2017,White,Petrol,181,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,8.93,2449000.00
 Kia,Sportage,2017,Gray,Petrol,181,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,9.35,2550000.00
@@ -1773,7 +1773,7 @@ Mazda,CX-5,2015,Gray,Petrol,184,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,
 Mazda,CX-5,2015,Silver,Petrol,184,4,Automatic,front wheel drive,4,J,Midsize,4dr SUV,10.63,2496500.00
 Toyota,Corolla,2016,Black,Petrol,132,4,Manual,front wheel drive,4,C,Compact,Sedan,11.90,2166500.00
 Mazda,CX-5,2015,Red,Petrol,155,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,10.63,2419500.00
-Mazda,CX-9,2015,Black,Petrol,273,6,Automatic,front wheel drive,4,J,Large,4dr SUV,7.23,3503500.00
+Honda,Pilot,2016,Red,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3705500.00
 Mazda,CX-9,2015,White,Petrol,273,6,Automatic,all wheel drive,4,J,Large,4dr SUV,6.80,3662500.00
 Mazda,CX-9,2015,Gray,Petrol,273,6,Automatic,all wheel drive,4,J,Large,4dr SUV,6.80,3157500.00
 Mazda,CX-9,2015,Silver,Petrol,273,6,Automatic,all wheel drive,4,J,Large,4dr SUV,6.80,3407000.00
@@ -1841,7 +1841,7 @@ Nissan,Sentra,2017,White,Petrol,124,4,Automatic,front wheel drive,4,E,Midsize,Se
 Mazda,6,2017,White,Petrol,184,4,Manual,front wheel drive,4,E,Midsize,Sedan,10.20,2194500.00
 Mazda,3,2017,Blue,Petrol,184,4,Manual,front wheel drive,4,E,Midsize,Sedan,10.63,2314500.00
 Mazda,6,2017,Silver,Petrol,184,4,Manual,front wheel drive,4,E,Midsize,Sedan,10.20,2419500.00
-Mercedes-Benz,C-Class,2015,Black,Petrol,241,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.20,4040000.00
+Honda,Pilot,2017,Black,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3303000.00
 Mercedes-Benz,C-Class,2015,White,Petrol,302,6,Automatic,all wheel drive,2,S,Compact,Coupe,8.08,4605000.00
 Mercedes-Benz,C-Class,2015,Gray,Petrol,241,4,Automatic,all wheel drive,4,E,Midsize,Sedan,8.08,4257500.00
 Mercedes-Benz,C-Class,2015,Silver,Petrol,451,8,Automatic,rear wheel drive,2,S,Compact,Coupe,5.53,6295000.00
@@ -1868,8 +1868,8 @@ Mercedes-Benz,GL-Class,2015,Black,Petrol,550,8,Automatic,all wheel drive,4,J,Lar
 Mercedes-Benz,GL-Class,2015,Red,Petrol,429,8,Automatic,all wheel drive,4,J,Large,4dr SUV,5.53,8995000.00
 Mercedes-Benz,GL-Class,2015,White,Petrol,362,6,Automatic,all wheel drive,4,J,Large,4dr SUV,7.23,6520000.00
 Mercedes-Benz,GL-Class,2015,Black,Diesel,240,6,Automatic,all wheel drive,4,J,Large,4dr SUV,8.08,6360000.00
-Mercedes-Benz,GLK-Class,2015,Black,Petrol,302,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.08,3790000.00
-Mercedes-Benz,GLK-Class,2015,Red,Petrol,302,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3990000.00
+Honda,Pilot,2017,Red,Petrol,280,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,8.08,3805500.00
+Kia,Cadenza,2015,Black,Petrol,293,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.08,3490000.00
 Mercedes-Benz,GLK-Class,2015,Blue,Diesel,200,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,10.20,3940000.00
 Mercedes-Benz,M-Class,2015,Black,Petrol,329,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,6290000.00
 Mercedes-Benz,M-Class,2015,White,Petrol,302,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.65,4830000.00
@@ -1901,8 +1901,8 @@ Mercedes-Benz,GL-Class,2016,Blue,Diesel,240,6,Automatic,all wheel drive,4,J,Larg
 Mercedes-Benz,GL-Class,2016,Blue,Petrol,362,6,Automatic,all wheel drive,4,J,Large,4dr SUV,7.23,6520000.00
 Mercedes-Benz,GL-Class,2016,Silver,Petrol,429,8,Automatic,all wheel drive,4,J,Large,4dr SUV,5.53,8995000.00
 Mercedes-Benz,GL-Class,2016,Gray,Petrol,550,8,Automatic,all wheel drive,4,J,Large,4dr SUV,5.53,11945000.00
-Mercedes-Benz,GLC-Class,2016,Black,Petrol,241,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.35,3895000.00
-Mercedes-Benz,GLC-Class,2016,Red,Petrol,241,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4095000.00
+Kia,Cadenza,2015,Red,Petrol,293,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.08,4380000.00
+Mercedes-Benz,GLK-Class,2015,Black,Petrol,302,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,8.08,3790000.00
 Mercedes-Benz,GLE-Class,2016,Black,Petrol,302,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.65,5110000.00
 Mercedes-Benz,GLE-Class,2016,Black,Diesel,201,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,9.35,5250000.00
 Mercedes-Benz,GLE-Class,2016,Blue,Petrol,302,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.23,5360000.00
@@ -1911,8 +1911,8 @@ Mercedes-Benz,GLE-Class,2016,Silver,Petrol,550,8,Automatic,all wheel drive,4,J,M
 Mercedes-Benz,GLE-Class,2016,White,Petrol,577,8,Automatic,all wheel drive,4,J,Midsize,4dr SUV,5.53,10710000.00
 Mercedes-Benz,GLE-Class Coupe,2016,Black,Petrol,362,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.23,6510000.00
 Mercedes-Benz,GLE-Class Coupe,2016,Red,Petrol,577,8,Automatic,all wheel drive,4,J,Midsize,4dr SUV,5.95,10930000.00
-Mercedes-Benz,C-Class,2016,Black,Petrol,241,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,10.63,3895000.00
-Mercedes-Benz,C-Class,2016,Red,Petrol,241,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,10.63,3927500.00
+BMW,X1,2015,Red,Petrol,300,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3910000.00
+Kia,Sorento,2016,Red,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3210000.00
 Mercedes-Benz,C-Class,2016,Silver,Petrol,241,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.20,4095000.00
 Mercedes-Benz,C-Class,2016,Blue,Petrol,241,4,Automatic,rear wheel drive,4,E,Midsize,Sedan,10.63,4112500.00
 Mercedes-Benz,C-Class,2016,White,Petrol,241,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.20,4127500.00
@@ -1942,7 +1942,7 @@ Mercedes-Benz,S-Class,2016,Gray,Petrol,577,8,Automatic,all wheel drive,4,F,Large
 Mercedes-Benz,Maybach,2016,Black,Petrol,523,12,Automatic,rear wheel drive,4,F,Large,Sedan,5.53,18935000.00
 BMW,3 Series,2016,Red,Diesel,180,4,Automatic,all wheel drive,4,E,Midsize,Sedan,12.75,4185000.00
 Mercedes-Benz,CLA-Class,2016,White,Petrol,208,4,Automated manual,all wheel drive,4,E,Midsize,Sedan,10.20,3405000.00
-Mercedes-Benz,CLA-Class,2016,Red,Petrol,375,4,Automated manual,all wheel drive,4,E,Midsize,Sedan,9.78,4950000.00
+Kia,Sorento,2015,Black,Petrol,290,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3850000.00
 Mercedes-Benz,AMG GT,2017,Black,Petrol,503,8,Automatic,rear wheel drive,2,S,Compact,Coupe,6.80,11120000.00
 Mercedes-Benz,AMG GT,2017,Red,Petrol,503,8,Automatic,rear wheel drive,2,S,Compact,Coupe,6.80,13120000.00
 Mercedes-Benz,C-Class,2017,Black,Petrol,241,4,Automatic,rear wheel drive,2,D,Midsize,Coupe,9.78,4265000.00
@@ -1957,11 +1957,11 @@ Mercedes-Benz,E-Class,2017,White,Petrol,329,6,Automatic,all wheel drive,2,S,Mids
 Mercedes-Benz,E-Class,2017,Red,Petrol,402,8,Automatic,rear wheel drive,2,S,Midsize,Coupe,7.65,6065000.00
 Mercedes-Benz,E-Class,2017,Blue,Petrol,329,6,Automatic,rear wheel drive,2,F,Midsize,Convertible,8.50,6260000.00
 Mercedes-Benz,E-Class,2017,Silver,Petrol,402,8,Automatic,rear wheel drive,2,F,Midsize,Convertible,7.23,6910000.00
-Mercedes-Benz,CLA-Class,2017,Red,Petrol,208,4,Automatic,all wheel drive,4,E,Midsize,Sedan,9.78,3440000.00
+Kia,Sorento,2015,Red,Petrol,290,6,Automatic,front wheel drive,4,J,Midsize,4dr SUV,7.65,3170000.00
 Mercedes-Benz,GLA-Class,2017,Black,Petrol,208,4,Automatic,front wheel drive,4,J,Compact,4dr SUV,10.20,3285000.00
 Mercedes-Benz,GLA-Class,2017,Red,Petrol,208,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,9.78,3485000.00
 Mercedes-Benz,GLA-Class,2017,Blue,Petrol,375,4,Automatic,all wheel drive,4,J,Compact,4dr SUV,9.35,4990000.00
-Mercedes-Benz,GLC-Class,2017,Black,Petrol,241,4,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,9.35,3915000.00
+Mercedes-Benz,GLK-Class,2015,Red,Petrol,302,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,3990000.00
 Mercedes-Benz,GLC-Class,2017,Blue,Petrol,241,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,8.93,4115000.00
 Mercedes-Benz,GLE-Class,2017,Black,Petrol,302,6,Automatic,rear wheel drive,4,J,Midsize,4dr SUV,7.65,5200000.00
 Mercedes-Benz,GLE-Class,2017,Red,Petrol,302,6,Automatic,all wheel drive,4,J,Midsize,4dr SUV,7.65,5450000.00
@@ -2349,7 +2349,7 @@ Subaru,Legacy,2017,Black,Petrol,175,4,Automatic,all wheel drive,4,E,Midsize,Seda
 Toyota,RAV4 Hybrid,2017,Blue,Hybrid,194,4,Automatic,all wheel drive,4,J,Midsize,4dr SUV,14.45,3403000.00
 Subaru,BRZ,2017,Black,Petrol,200,4,Automatic,rear wheel drive,2,S,Compact,Coupe,10.20,2874500.00
 Subaru,Legacy,2017,White,Petrol,175,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.63,2399500.00
-Kia,Optima Hybrid,2015,Red,Petrol,199,4,Automatic,front wheel drive,4,E,Midsize,Sedan,14.88,3215000.00
+Honda,Pilot,2015,Black,Petrol,250,6,Automatic,four wheel drive,4,J,Midsize,4dr SUV,7.23,3372000.00
 Subaru,Legacy,2017,Gray,Petrol,175,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.63,2599500.00
 Subaru,Legacy,2017,Blue,Petrol,175,4,Automatic,all wheel drive,4,E,Midsize,Sedan,10.63,2884000.00
 Kia,Optima Hybrid,2016,White,Petrol,199,4,Automatic,front wheel drive,4,E,Midsize,Sedan,14.88,3219500.00
@@ -2536,8 +2536,8 @@ Toyota,Camry,2017,Blue,Petrol,178,4,Automatic,front wheel drive,4,E,Midsize,Seda
 Toyota,Camry,2017,Silver,Petrol,178,4,Automatic,front wheel drive,4,E,Midsize,Sedan,10.20,2631000.00
 Honda,Accord Hybrid,2017,Red,Petrol,212,4,Automatic,front wheel drive,4,E,Midsize,Sedan,20.83,2960500.00
 Honda,Accord Hybrid,2017,Blue,Petrol,212,4,Automatic,front wheel drive,4,E,Midsize,Sedan,20.83,3290500.00
-Honda,Accord Hybrid,2017,Black,Petrol,212,4,Automatic,front wheel drive,4,E,Midsize,Sedan,20.83,3595500.00
-Honda,Accord Hybrid,2015,Black,Petrol,196,4,Automatic,front wheel drive,4,E,Midsize,Sedan,21.26,3505500.00
+Honda,Pilot,2015,Red,Petrol,250,6,Automatic,four wheel drive,4,J,Midsize,4dr SUV,7.23,3897000.00
+Mazda,CX-9,2015,Black,Petrol,273,6,Automatic,front wheel drive,4,J,Large,4dr SUV,7.23,3503500.00
 Toyota,Camry,2017,White,Petrol,268,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.93,3137000.00
 Toyota,Camry,2017,Gray,Petrol,268,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.93,3137000.00
 Toyota,Avalon,2017,Black,Petrol,268,6,Automatic,front wheel drive,4,E,Midsize,Sedan,8.93,3325000.00

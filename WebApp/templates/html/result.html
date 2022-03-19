@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+        <a href="/"><h1><div class="head1">
+            ~CARSELECTION~
+        </div></h1></a>
+        
+        <title>
+            CARSELECTION WEBSITE
+        </title>
+    </head>
+    <hr>
+    
+    <body>
+        <header>
+        <p style="text-align: center;">Here are the result for your search:</p>
+        <p>
+            <b style="font-size: xx-large;">Best result:</b>
+        </p>
+            <ol>
+                {% for message in data%}
+                    <li style="color: white;">
+                        <br>
+                        <b>Brand</b>: {{message.make}}
+                        <br>
+                        <b>Model</b>: {{message.model}}
+                        <br>
+                        <b>Year</b>: {{message.year}}
+                        <br>
+                        <b>Color</b>: {{message.color}}
+                        <br>
+                        <b>Fuel type</b>: {{message.engine_fuel_type}}
+                        <br>
+                        <b>Engine HP</b>: {{message.engine_hp}}
+                        <br>
+                        <b>Engine cylinders</b>: {{message.engine_cylinders}}
+                        <br>
+                        <b>Driven wheels</b>: {{message.driven_wheels}}
+                        <br>
+                        <b>Number of doors</b>: {{message.number_of_doors}}
+                        <br>
+                        <b>Class/Market Category</b>: {{message.market_category}}
+                        <br>
+                        <b>Size</b>: {{message.vehicle_size}}
+                        <br>
+                        <b>Body style</b>: {{message.vehicle_style}}
+                        <br>
+                        <b>City KilometerPerLiter</b>: {{message.city_kpl}}
+                        <br>
+                        <b>Price</b>: <b style="font-size: xx-large;">{{message.price}}</b>
+                        <br>
+                    </il>
+                {% endfor %}
+            </ol>
+        </header>
+
+        
+    </body>
+    <footer>
+        Author: Андрюшина Мария, Виджая Стивен, Танумихарджа Рафаэл Мэтью, Цурова Тамара
+        <br>
+        Tomsk 2022
+    </footer>
+</html>

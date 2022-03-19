@@ -23,7 +23,7 @@ Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
 
 Frontend Version: **1.0.0**
 
-Video: 
+Video: https://disk.yandex.com/i/KTPNIMTEob92Xg
 
 ## Test
 Пользователь хочет найти варианты автомобилей, со следующим характеристиками:

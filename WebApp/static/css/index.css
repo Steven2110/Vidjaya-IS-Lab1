@@ -20,6 +20,8 @@ p{
     color: white;
 }
 
+
+
 .button1{
     background-color: white;
     color: black;
@@ -38,6 +40,14 @@ p{
     
 }
 
+.center{
+    margin: auto;
+    height: fit-content;
+    width: 60%;
+   
+    padding: 10px;
+}
+
 .row {
     
     display: flex;
@@ -52,6 +62,18 @@ p{
     padding: 10px;
     height: 300px;
   }
+
+.row1{
+    display: flex;
+    padding-bottom: 10px;
+    text-align: start;
+}
+
+.column1{
+    align-content: center;
+    padding: 10px;
+    height: 300px;
+}
 
 .button1:hover{
     background-color: rgb(218, 212, 212);
@@ -92,6 +114,7 @@ input[type='checkbox'] {
 footer {
     position: fixed;
     padding: 10px 10px 0px 10px;
+    padding-top: -50px;
     width: 100%;
     bottom: 0;
     height: 50px;
@@ -101,3 +124,7 @@ footer {
     opacity: 1;
     
   }
+
+a{
+    text-decoration: none;
+}

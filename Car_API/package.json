@@ -1,5 +1,5 @@
 {
     "name": "car_api",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "main": "api.py"
 }

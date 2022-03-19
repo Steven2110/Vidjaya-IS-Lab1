@@ -1,33 +1,54 @@
 {
-    "min_price": 1000000,
-    "max_price": 6000000,
+    "min_price": 3000000,
+    "max_price": 5000000,
     "body_type": [
         "SUV",
-        "Coupe",
         "Sedan"
     ],
     "fuel_type": [
-        "Any"
+        "Petrol"
     ],
     "transmission_type": [
-        "Any"
+        "Automatic",
+        "Manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual",
+        "Automated manual"
     ],
     "color": [
         "Black",
-        "White",
-        "Red",
-        "Blue"
+        "Red"
     ],
     "brand": [
         "BMW",
-        "Chevrolet",
-        "GMC",
         "Honda",
-        "Hyundai"
+        "Kia",
+        "Mazda",
+        "Mercedes-Benz"
     ],
-    "minimum_year": 2016,
+    "minimum_year": 2015,
     "vehicle_size": [
-        "Compact",
         "Midsize"
     ],
     "profile": [

@@ -115,23 +115,11 @@ def result():
         for match in best_match:
             file2.write(str(json.dumps(match, indent=4)) + '\n')
         file2.close()
-    return render_template("/html/result.html", data=best_match)
-
-# @views.route("/result")
-# def show_result(best_match):
-#     flash(best_match)
-#     return render_template("/html/result.html")
-
-# @views.route('/result', methods=["GET"])
-# def show_result():
-#     if request.method == 'GET':
-#         car = api.IntelligenceSystemCar(user_want)
-#         best_match = car.get_best_match()
-#         close_match = car.get_close_match(best_match)
-#         flash(best_match)
-#         file2 = open("test_result.txt", "w")
-#         for match in best_match:
-#             file2.write(str(json.dumps(match, indent=4)) + '\n')
-#         file2.close()
-#     return render_template("/html/result.html")
+        # all_match = {
+        #     "best_match": [],
+        #     "close_match": []
+        # }
+        # all_match["best_match"] = best_match
+        # all_match["close_match"] = close_match
+    return render_template("/html/result.html", data1=best_match, data2=close_match)
 

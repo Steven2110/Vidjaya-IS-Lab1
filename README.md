@@ -3,8 +3,7 @@ Intelligent System laboratory work
 Виджая Стивен 932001 2022
 
 ## Предметная область: ЭС по выбору автомобиля
-Команда:
-
+## Команда:
 Андрюшина Мария 932001
 
 Виджая Стивен 932001
@@ -15,13 +14,14 @@ Intelligent System laboratory work
 
 ## Link to site
 
-## How to use:
-1. Clone Repository
-2. Open terminal
-3. pip install flask
-4. pip install pymongo 
-5. pip install virtualenv, then run python3 -m virtualenv venv on mac
-6. Start debugging main.py file
+## Как использовать наше веб-приложение:
+1. Clone Repository. / Клонируйте репозиторий
+2. Open terminal / Откройте консоль
+3. pip install flask / Установите библиотеку flask 
+4. pip install pymongo / Установите библиотеку pymongo
+5. Start debugging main.py file. / Запускайте питонский файл "main.py"
+6. Press ctrl (on Windows) / cmd (on Mac) and click on the link from the console. Нажмите ctrl (в Windows) / cmd (в Mac) и нажмите ссылку из консоли.
+7. You can start use our web application in your browser. / В вашем браузере вы можете начать использовать наше веб-приложение
 
 ## Video of the program
 Backend Version: **1.0.0**

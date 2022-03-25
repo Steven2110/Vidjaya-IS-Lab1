@@ -12,30 +12,30 @@ Intelligent System laboratory work
 
 Цурова Тамара 932001
 
-## Link to site
+## Ссылка на наше веб-приложение
 https://car-picker-is-lab1.herokuapp.com/
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/80201768/160152216-9704fcab-60c9-4fbd-a38f-c8824139f3bf.png">
 
 
-## Как использовать наше веб-приложение:
-1. Clone Repository. / Клонируйте репозиторий
-2. Open terminal / Откройте консоль
-3. pip install flask / Установите библиотеку flask 
-4. pip install pymongo / Установите библиотеку pymongo
-5. Start debugging main.py file. / Запускайте питонский файл "main.py"
-6. Press ctrl (on Windows) / cmd (on Mac) and click on the link from the console. Нажмите ctrl (в Windows) / cmd (в Mac) и нажмите ссылку из консоли.
-7. You can start use our web application in your browser. / В вашем браузере вы можете начать использовать наше веб-приложение
+## Как использовать наше веб-приложение через локальный порт:
+1. Клонируйте репозиторий. / Clone Repository.
+2. Откройте консоль / Open terminal
+3. Установите библиотеку flask `pip install flask`
+4. Установите библиотеку pymongo `pip install pymongo`
+5. Запускайте питонский файл `main.py` / Start debugging `main.py` file.
+6. Нажмите ctrl (в Windows) / cmd (в Mac) и нажмите ссылку из консоли. / Press ctrl (on Windows) / cmd (on Mac) and click on the link from the console.
+7. В вашем браузере вы можете начать использовать наше веб-приложение. / You can start use our web application in your browser.
 
-## Video of the program
+## Видео нашей программы
 Backend Version: **1.0.0**
 
 Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
 
-Frontend Version: **1.0.0**
+Frontend Version: **1.0.1**
 
-Video: https://disk.yandex.com/i/KTPNIMTEob92Xg
+Video: https://disk.yandex.com/i/ooYVgBjqhVfhDA
 
-## Test
+## Тестирование
 Пользователь хочет найти варианты автомобилей, со следующим характеристиками:
 
 1. **Цена**: От 3.000.000 До 5.000.000
@@ -48,7 +48,7 @@ Video: https://disk.yandex.com/i/KTPNIMTEob92Xg
 8. **Размер**: Средняя
 9. **Категория**: Экономичная
 
-## Result
+## Результаты
 Наша ЭС возвращает все самые подходящие варианты, а так же другие подходящие варианты соответственно Базе Знаний: 
 
 1. Та же самая цена, стиль, тип топлива, тип передачи, год производства, размер и категория
@@ -59,3 +59,11 @@ Video: https://disk.yandex.com/i/KTPNIMTEob92Xg
 Файл *test_best_match.txt* - это результаты всех подходящих вариантов машин
 
 Файл *test_close_match.txt* - это результаты всех других подходящих вариантов машин
+
+## Стек технологий
+1. Язык программирования: 
+   * Фронтенд/Интерфейс: HTML, CSS
+   * Бэкенд/Сервер: Python
+2. Базы Данных: MongoDB
+3. Веб-фреймворк: Flask
+4. Хостинг: Heroku

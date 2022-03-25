@@ -13,6 +13,9 @@ Intelligent System laboratory work
 Цурова Тамара 932001
 
 ## Link to site
+https://car-picker-is-lab1.herokuapp.com/
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/80201768/160152216-9704fcab-60c9-4fbd-a38f-c8824139f3bf.png">
+
 
 ## Как использовать наше веб-приложение:
 1. Clone Repository. / Клонируйте репозиторий

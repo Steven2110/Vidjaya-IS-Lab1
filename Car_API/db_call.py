@@ -111,16 +111,10 @@ def get_queries_logic_match_car(user_want):
                     }
                 }
             }
-    print(logic)
     return logic
 
 
 def get_matching_car(user_want):
-    # file1 = open("testest.txt", "w")
-    # all_data = collection.find({}, {"_id": 0})
-    # for i in all_data:
-    #     file1.write(str(json.dumps(i,indent=4)) + '\n')
-    # file1.close()
     best_match = []
 
     # Get the queries logic of every car that satisfy every characteristic that the user want

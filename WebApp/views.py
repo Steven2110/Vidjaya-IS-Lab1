@@ -104,22 +104,8 @@ def result():
         profiles = request.form.getlist('input_profile')
         if profiles != "Any":
             user_want["profile"] = [x for x in profiles]
-        file1 = open("test.txt", "w")
-        file1.write(str(json.dumps(user_want, indent=4)))
-        file1.close()
-        print(user_want)
         car = api.IntelligenceSystemCar(user_want)
         best_match = car.get_best_match()
         close_match = car.get_close_match(best_match)
-        file2 = open("test_result.txt", "w")
-        for match in best_match:
-            file2.write(str(json.dumps(match, indent=4)) + '\n')
-        file2.close()
-        # all_match = {
-        #     "best_match": [],
-        #     "close_match": []
-        # }
-        # all_match["best_match"] = best_match
-        # all_match["close_match"] = close_match
     return render_template("/html/result.html", data1=best_match, data2=close_match)
 

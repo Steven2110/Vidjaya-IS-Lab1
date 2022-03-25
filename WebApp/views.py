@@ -17,7 +17,7 @@ user_want = {
         "profile": ["Any"]
 }
 
-@views.route('/')
+@views.route('/home')
 def home():
     return render_template("/index.html")
 

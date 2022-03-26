@@ -124,5 +124,7 @@ def result():
         car = api.IntelligenceSystemCar(user_want)
         best_match = car.get_best_match()
         close_match = car.get_close_match(best_match)
+    if best_match == [] and close_match == []:
+        return render_template("/html/notfound.html")
     return render_template("/html/result.html", data1=best_match, data2=close_match)
 

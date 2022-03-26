@@ -150,8 +150,11 @@ def get_queries_logic_close_car(user_want):
 
     # Logic for car with Transmission Type equal to the Transmission Type that the user want
     if user_want["transmission_type"][0] != "Any":
+        if "Electric" in user_want["fuel_type"]:
+            user_want["transmission_type"].append("Direct drive")
         if "Automatic" in user_want["transmission_type"]:
-            user_want["transmission_type"].append("Automated manual")
+            if "Automated manual" not in user_want["transmission_type"]:
+                user_want["transmission_type"].append("Automated manual")
         logic["transmission_type"] = {"$in": user_want["transmission_type"]}
 
     # Logic for car with Size equal to the Size that the user want

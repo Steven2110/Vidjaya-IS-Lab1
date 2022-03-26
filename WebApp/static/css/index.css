@@ -65,19 +65,27 @@ p{
 }
 
 .row {
-    
     display: flex;
     padding-bottom: 10px;
     text-align: start;
-   
   }
   
   
-  .column {
-    align-content: center;
-    padding: 10px;
-    height: 300px;
-  }
+.column {
+align-content: center;
+padding: 10px;
+height: 300px;
+}
+
+.row-any{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.column-any{
+    text-align: center;
+    height: fit-content;
+}
 
 .row1{
     display: flex;

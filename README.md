@@ -31,9 +31,9 @@ Backend Version: **1.0.0**
 
 Video: https://disk.yandex.com/d/B-rylhY4VN4_aw
 
-Frontend Version: **1.0.1**
+Frontend Version: **1.0.2**
 
-Video: https://disk.yandex.com/i/ooYVgBjqhVfhDA
+Video: https://disk.yandex.com/i/YfWNNcAgIFYLJQ
 
 ## Тестирование
 Пользователь хочет найти варианты автомобилей, со следующим характеристиками:

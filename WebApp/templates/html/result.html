@@ -13,30 +13,30 @@
     <body>
         <header>
         <div class="center">
-                <p style="text-align: center;">Here are the result for your search:</p>
+                <p style="text-align: center;">Результаты Вашего поиска:</p>
                     <div class="row1" >
                         <div class="column1">
                             <p>
-                                <b style="font-size: xx-large;">Best result:</b>
+                                <b style="font-size: xx-large;">Лучшие совпадения:</b>
                             </p>
                             <ol type="1" style="font-size: 24px;">
                                 {% for message in data1%}
                                     <li style="color: white;">
                                         <ol type="a">
-                                            <li ><b>Brand</b>: {{message.make}}</li>
-                                            <li><b>Model</b>: {{message.model}}</li>
-                                            <li> <b>Year</b>: {{message.year}}</li>
-                                            <li><b>Color</b>: {{message.color}}</li>
-                                            <li><b>Fuel type</b>: {{message.engine_fuel_type}}</li>
-                                            <li><b>Engine HP</b>: {{message.engine_hp}}</li>
-                                            <li> <b>Engine cylinders</b>: {{message.engine_cylinders}}</li>
-                                            <li> <b>Driven wheels</b>: {{message.driven_wheels}}</li>
-                                            <li> <b>Number of doors</b>: {{message.number_of_doors}}</li>
-                                            <li> <b>Class/Market Category</b>: {{message.market_category}}</li>
-                                            <li><b>Size</b>: {{message.vehicle_size}}</li>
-                                            <li><b>Body style</b>: {{message.vehicle_style}}</li>
-                                            <li> <b>City KilometerPerLiter</b>: {{message.city_kpl}}</li>
-                                            <li> <b>Price</b>: <b style="font-size: xx-large;">{{message.price}}</b></li>
+                                            <li ><b>Марка</b>: {{message.make}}</li>
+                                            <li><b>Модель</b>: {{message.model}}</li>
+                                            <li> <b>Год выпуска</b>: {{message.year}}</li>
+                                            <li><b>Цвет</b>: {{message.color}}</li>
+                                            <li><b>Тип топлива</b>: {{message.engine_fuel_type}}</li>
+                                            <li><b>Мощность двигателя</b>: {{message.engine_hp}}</li>
+                                            <li> <b>Цилиндры двигателя</b>: {{message.engine_cylinders}}</li>
+                                            <li> <b>Ведущие колеса</b>: {{message.driven_wheels}}</li>
+                                            <li> <b>Количество двери</b>: {{message.number_of_doors}}</li>
+                                            <li> <b>Риночная категория</b>: {{message.market_category}}</li>
+                                            <li><b>Размер</b>: {{message.vehicle_size}}</li>
+                                            <li><b>Тип кузова</b>: {{message.vehicle_style}}</li>
+                                            <li> <b>Расход топлива</b>: {{message.city_kpl}} Километр/Литр</li>
+                                            <li> <b>Цена</b>: <b style="font-size: xx-large;">{{message.price}} ₽</b></li>
                                         </ol>
         
                                     </li>
@@ -52,26 +52,26 @@
                         </div>
                         <div class="column1">
                             <p>
-                                <b style="font-size: xx-large;">Close Match:</b>
+                                <b style="font-size: xx-large;">Похожие варианты:</b>
                             </p>
                             <ol type="1" style="font-size: 24px;">
                                 {% for message in data2%}
                                     <li style="color: white;">
                                         <ol type="a">
-                                            <li ><b>Brand</b>: {{message.make}}</li>
-                                            <li><b>Model</b>: {{message.model}}</li>
-                                            <li> <b>Year</b>: {{message.year}}</li>
-                                            <li><b>Color</b>: {{message.color}}</li>
-                                            <li><b>Fuel type</b>: {{message.engine_fuel_type}}</li>
-                                            <li><b>Engine HP</b>: {{message.engine_hp}}</li>
-                                            <li> <b>Engine cylinders</b>: {{message.engine_cylinders}}</li>
-                                            <li> <b>Driven wheels</b>: {{message.driven_wheels}}</li>
-                                            <li> <b>Number of doors</b>: {{message.number_of_doors}}</li>
-                                            <li> <b>Class/Market Category</b>: {{message.market_category}}</li>
-                                            <li><b>Size</b>: {{message.vehicle_size}}</li>
-                                            <li><b>Body style</b>: {{message.vehicle_style}}</li>
-                                            <li> <b>City KilometerPerLiter</b>: {{message.city_kpl}}</li>
-                                            <li> <b>Price</b>: <b style="font-size: xx-large;">{{message.price}}</b></li>
+                                            <li ><b>Марка</b>: {{message.make}}</li>
+                                            <li><b>Модель</b>: {{message.model}}</li>
+                                            <li> <b>Год выпуска</b>: {{message.year}}</li>
+                                            <li><b>Цвет</b>: {{message.color}}</li>
+                                            <li><b>Тип топлива</b>: {{message.engine_fuel_type}}</li>
+                                            <li><b>Мощность двигателя</b>: {{message.engine_hp}}</li>
+                                            <li> <b>Цилиндры двигателя</b>: {{message.engine_cylinders}}</li>
+                                            <li> <b>Ведущие колеса</b>: {{message.driven_wheels}}</li>
+                                            <li> <b>Количество двери</b>: {{message.number_of_doors}}</li>
+                                            <li> <b>Риночная категория</b>: {{message.market_category}}</li>
+                                            <li><b>Размер</b>: {{message.vehicle_size}}</li>
+                                            <li><b>Тип кузова</b>: {{message.vehicle_style}}</li>
+                                            <li> <b>Расход топлива</b>: {{message.city_kpl}} Километр/Литр</li>
+                                            <li> <b>Цена</b>: <b style="font-size: xx-large;">{{message.price}} ₽</b></li>
                                         </ol>
                                     </li>
                                     <br>

@@ -13,15 +13,13 @@
 <body>
     <header>
         <p style="font-size:120%" id="top-text">
-            What's your budget range?
+            Сколько должен стоить автомобиль?
          </p>
          <p>
-             <b>Set your minimum and maximum price of the car
-             </b> 
+             <b>Выберите ценовой диапазон:</b> 
          </p>
-
          <form action="type" method="post">
-             <label for="minprice">Minimum Price: </label><br>
+             <label for="minprice">От: </label><br>
              <select name="minprice" id="minprice" style="width: 150px; height: 30px;font-size: 18px;">
                  <option value="0">0</option>
                  <option value="1000000">1.000.000 ₽</option>
@@ -76,7 +74,7 @@
                  <option value="50000000">50.000.000 ₽</option>
               </select>  
               <br><br>
-             <label for="maxprice">Maximum Price: </label><br>
+             <label for="maxprice">До: </label><br>
              <select name="maxprice" id="maxprice" style="width: 150px; height: 30px; font-size: 18px;">
                 <option value="0">0</option>
                 <option value="1000000">1.000.000 ₽</option>
@@ -132,7 +130,7 @@
              </select> 
              <br> 
              <br>
-             <input type="submit" value="Lets go to the next step">
+             <input type="submit" value="Следующий шаг">
          </form>
     </header>
 

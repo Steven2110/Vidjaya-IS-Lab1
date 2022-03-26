@@ -14,8 +14,7 @@ Intelligent System laboratory work
 
 ## Ссылка на наше веб-приложение
 https://car-picker-is-lab1.herokuapp.com/
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/80201768/160152216-9704fcab-60c9-4fbd-a38f-c8824139f3bf.png">
-
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/80201768/160253382-e3e4b0ed-b692-4e93-b916-b9724c6a9449.png">
 
 ## Как использовать наше веб-приложение через локальный порт:
 1. Клонируйте репозиторий. / Clone Repository.
@@ -59,6 +58,11 @@ Video: https://disk.yandex.com/i/YfWNNcAgIFYLJQ
 Файл *test_best_match.txt* - это результаты всех подходящих вариантов машин
 
 Файл *test_close_match.txt* - это результаты всех других подходящих вариантов машин
+
+## Как добавить данные в Базу Данных
+1. Добавьте ваши данные в файле `data_placeholder.xlsx`, потом сохраните его и сохраните его как `.csv` файл с одинаковым именем файла `data_placeholder.csv`
+2. Откройте питонский файл `db_insert.py` и запустите его. Посмотрите вывод подтверждения в консоль, что ваши данные успешны добавлены в БД.
+3. Если вдруг ваши данные не добавлены то обновляйте их, так как они уже есть в БД. Или обновляйте их через приложение MongoDB Compass / сайт MongoDB.
 
 ## Стек технологий
 1. Язык программирования: 

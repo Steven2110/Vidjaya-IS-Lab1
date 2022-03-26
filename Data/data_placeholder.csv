@@ -1,0 +1,2 @@
+make,model,year,color,engine_fuel_type,engine_hp,engine_cylinders,transmission_type,driven_wheels,number_of_doors,market_category,vehicle_size,vehicle_style,city_kpl,price
+Honda,Civic,2015,Black,Petrol,158,4,Automatic,all wheel drive,4,C,Compact,Sedan,13.18,2235000

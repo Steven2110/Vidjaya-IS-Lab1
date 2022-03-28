@@ -30,7 +30,6 @@ def type():
     if request.method == 'POST':
         min_price = request.form.get('minprice')
         max_price = request.form.get('maxprice')
-        print(max_price)
         if min_price != "0":
             user_want["min_price"] = int(min_price)
         if max_price != "0":
@@ -122,7 +121,6 @@ def result():
                 user_want["profile"] = [x for x in profiles]
         else:
             user_want["profile"] = ["Any"]
-        print(user_want)
         car = api.IntelligenceSystemCar(user_want)
         best_match = car.get_best_match()
         close_match = car.get_close_match(best_match)

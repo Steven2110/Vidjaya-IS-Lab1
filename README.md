@@ -1,6 +1,9 @@
-# VidjayaStiven-IS-Lab
-Intelligent System laboratory work
-Виджая Стивен 932001 2022
+# VidjayaStiven-IS-Lab1
+Intelligent System laboratory work 1
+
+Виджая Стивен 932001 
+
+2022
 
 ## Предметная область: ЭС по выбору автомобиля
 ## Команда:
